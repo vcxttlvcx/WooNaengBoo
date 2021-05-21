@@ -54,9 +54,9 @@
 
 # ⚙️Tech Stacks
 
-![Tech Stacks](images/Back Tech Stacks.png)
+![Tech Stacks](images/Back_Tech_Stacks.png)
 
-![Tech Stacks](images/Front Tech Stacks.png)
+![Tech Stacks](images/Front_Tech_Stacks.png)
 
 # DB_ERD
 
@@ -469,6 +469,5 @@ npm install --save vuex-persistedstate
 <p align="center" style="color:black;">
   <img src="images/team.png" style="padding: 0;margin:0;">
 </p>
-
 
 
