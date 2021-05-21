@@ -326,10 +326,6 @@ npm install --save vuex-persistedstate
 
 
 
-# Application Architecture
-
-![Application Architecture](images/application_architecture.jpg)
-
 
 
 # 기능
